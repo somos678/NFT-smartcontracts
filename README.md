@@ -4,19 +4,19 @@ video of my Project
 [ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
 
 ## This is my Project :
-my IDEA :  
-   Registration of industrial plans to preserve the ownership rights of the owner of the plan as the designer of the plan.
-   NFT
+   my IDEA :  
+    Registration of industrial plans to preserve the ownership rights of the owner of the plan as the designer of the plan.
+     NFT
 
 In This Smart Contracts by Name `Design_NFT`
-## 1- I use ipfs from Pinata and made metadata for industrial Drawing on decenterilize platform.
-##  2- made `Design_NFT` Smart Contracts and used "@openzeppelin" library and use ERC721.
-##  3- deployed and verify on sepolia testnet.
-##  4- 5 unit test pass
-##  5- conecct with metamask and frontend and intraction with Smart Contracts and Mint token
-   6-  deployed Address on etherscan :  https://sepolia.etherscan.io/address/0xf21B62DEFBb5eA2Ed6e36A43356CF3966D1A82d0
-##  7- video of my Project : 
-##  [ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
+    1- I use ipfs from Pinata and made metadata for industrial Drawing on decenterilize platform.
+    2- made `Design_NFT` Smart Contracts and used "@openzeppelin" library and use ERC721.
+    3- deployed and verify on sepolia testnet.
+    4- 5 unit test pass
+    5- conecct with metamask and frontend and intraction with Smart Contracts and Mint token
+    6-  deployed Address on etherscan :  https://sepolia.etherscan.io/address/0xf21B62DEFBb5eA2Ed6e36A43356CF3966D1A82d0
+    7- video of my Project : 
+    [ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
 
  
 
