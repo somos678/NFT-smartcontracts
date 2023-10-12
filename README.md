@@ -1,5 +1,7 @@
 # Hardhat NFT
-[ ⌨️ project video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
+
+video of my Project 
+[ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
 
 This is my Project :
 my IDEA :  
@@ -12,19 +14,9 @@ In This Smart Contracts by Name `Design_NFT`
   3- deployed and verify on sepolia testnet.
   4- 5 unit test pass
   5- conecct with metamask and frontend and intraction with Smart Contracts and Mint token
-  6-  deployed Address :
-
- 1- I did test coverage to 100%.
- 2- I made 2 function on fundme.sol constracts :
-   1-Transfer function : onlyowner can transfer ether from contract to another address or itself;its must be lower than constract balance.
-   2-onlyowner can spend the owner to another address.
-3- I changed call to transfer on constracts.
-4- I use event.
-5- and deployed and test on localhost and sepolia network with this Address :
-   
-6- use new function on frontend and conected with metamask 
-7- video of my Project : 
-   [ ⌨️ project video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
+  6-  deployed Address on etherscan :  https://sepolia.etherscan.io/address/0xf21B62DEFBb5eA2Ed6e36A43356CF3966D1A82d0
+  7- video of my Project : 
+   [ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
 
  
 
