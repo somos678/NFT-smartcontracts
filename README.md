@@ -1,4 +1,5 @@
-# Hardhat Fund Me
+# Hardhat NFT
+[ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
 This is my Project :
 my IDEA :  
    Registration of industrial plans to preserve the ownership rights of the owner of the plan as the designer of the plan.
@@ -22,7 +23,7 @@ In This Smart Contracts by Name `Design_NFT`
    
 6- use new function on frontend and conected with metamask 
 7- video of my Project : 
-   [ ⌨️ excersice video](https://drive.google.com/uc?id=1kDhFDXetfXpdWIlMLWGT7xxxOIQY71Kv&export)
+   [ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
 
  
 
