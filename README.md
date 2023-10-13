@@ -1,7 +1,8 @@
 # Hardhat NFT
 
 video of my Project 
-[ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
+please check this vedeo instead of linke i sended on froum as a video link,on that video there was problem at the midle of video.
+[ ⌨️ excersice video](https://drive.google.com/file/d/1k4Z6slNmyRDVzKyBUIxGrX5KNTKgFYeE/view?usp=drive_link)
 
 ## This is my Project :
    my IDEA :  
@@ -24,7 +25,7 @@ In This Smart Contracts by Name `Design_NFT`
 
   7- video of my Project : 
 
-  [ ⌨️ excersice video](https://drive.google.com/file/d/1h3vgblxvR5CT5Fp2axd0KKHz9l250eLY/view?usp=drive_link)
+  [ ⌨️ excersice video](https://drive.google.com/file/d/1k4Z6slNmyRDVzKyBUIxGrX5KNTKgFYeE/view?usp=drive_link)
 
  
 
