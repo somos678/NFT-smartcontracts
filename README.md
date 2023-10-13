@@ -1,7 +1,7 @@
 # Hardhat NFT
 
 video of my Project 
-please check this vedeo instead of linke i sended on froum as a video link,on that video there was problem at the midle of video.
+my video had problem and i fost to send another forum with corect video, please check this vedeo instead of linke i sended on froum as a video link,on that video there was problem at the midle of video.
 [ ⌨️ excersice video](https://drive.google.com/file/d/1k4Z6slNmyRDVzKyBUIxGrX5KNTKgFYeE/view?usp=drive_link)
 
 ## This is my Project :
